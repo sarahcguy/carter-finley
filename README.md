@@ -1,2 +1,3 @@
 # carter-finley
-This is a football project
+This is a Wolfpack football program
+5-0
